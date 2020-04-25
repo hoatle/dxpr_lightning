@@ -1,5 +1,5 @@
 {
-    "name": "dxpr/lightning_dxpr",
+    "name": "dxpr/dxpr_lightning",
     "type": "drupal-profile",
     "description": "A fast and feature-rich Drupal distribution based on Lightning profile.",
     "license": "GPL-2.0-or-later",
@@ -13,7 +13,7 @@
         "drupal/sooperthemes_gridstack": "^1.0",
         "drupal/tokenuuid": "^1.0",
         "drupal/webform": "^5.0",
-        "jjroelofs/glazed": "dev-master",
-        "jjroelofs/glazed_builder": "dev-master"
+        "dxpr/dxpr_theme": "dev-master",
+        "dxpr/dxpr_builder": "^1.4"
     }
 }
